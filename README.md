@@ -28,7 +28,7 @@ Todo MERN App is a task management application built using the MERN (MongoDB, Ex
 
 1. Clone the repository
    bash
-   git clone https://github.com/your-username/todo-mern-app.git
+   git clone https://github.com/shrutitagade/todo-mern-app.git
    cd todo-mern-app
    
 
@@ -48,7 +48,6 @@ Todo MERN App is a task management application built using the MERN (MongoDB, Ex
    
 
 4. Start the backend server
-   bash
    cd backend
    npm start
    
