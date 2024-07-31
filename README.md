@@ -58,37 +58,6 @@ Todo MERN App is a task management application built using the MERN (MongoDB, Ex
 
 6. Open your browser and navigate to `http://localhost:3000`
 
- Project Structure
-
-todo-mern-app/
-├── backend/
-│   ├── controllers/
-│   │   └── todoController.js
-│   ├── models/
-│   │   └── Todo.js
-│   ├── routes/
-│   │   └── todoRoutes.js
-│   ├── .env
-│   ├── index.js
-│   └── package.json
-└── frontend/
-    ├── public/
-    ├── src/
-    │   ├── components/
-    │   │   ├── TodoItem.js
-    │   │   └── TodoList.js
-    │   ├── redux/
-    │   │   ├── store.js
-    │   │   └── todoSlice.js
-    │   ├── utils/
-    │   │   └── speak.js
-    │   ├── App.js
-    │   ├── index.js
-    │   └── index.css
-    ├── .env
-    ├── package.json
-    └── README.md
-
  Usage
 
 1. Add tasks by typing in the task description and clicking the "Add" button.
